@@ -1,5 +1,6 @@
 <template>
     <div>
+      <Logo/>
       <Header
         message='test'
       >
@@ -9,16 +10,13 @@
 
 <script>
 import Header from './Header'
+import Logo from './Logo'
 
 export default {
   name: 'HelloWorld',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
-  },
   components: {
-    Header
+    Header,
+    Logo
   }
 }
 </script>
