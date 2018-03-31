@@ -2,22 +2,27 @@
     <div class='header'>
       <span
         class='vertical-align-content'
-        >{{message}}
+        ><Logo/>{{message}}
       </span>
     </div>
 </template>
 
 <script>
+import Logo from '@/components/Logo'
+
 export default {
   props: ['message'],
-  name: 'Header'
+  name: 'Header',
+  components: {
+    Logo
+  }
 }
 </script>
 
 <style scoped>
 .header {
     align-items: center;
-    background-color: yellow;
+    background-color: white;
     display: flex;
     height: 60px;
     justify-content: center;
