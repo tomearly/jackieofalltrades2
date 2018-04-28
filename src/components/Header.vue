@@ -2,7 +2,7 @@
     <div class='header'>
       <span
         class='vertical-align-content'
-        ><Logo/>{{message}}
+        ><Logo/>
       </span>
     </div>
 </template>
@@ -26,5 +26,6 @@ export default {
     display: flex;
     height: 60px;
     justify-content: center;
+    margin-bottom: 20px;
 }
 </style>

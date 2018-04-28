@@ -15,7 +15,7 @@ export default new Router({
       component: ContactUs
     },
     {
-      path: '/Gallery',
+      path: '/gallery',
       name: 'Gallery',
       component: Gallery
     },
