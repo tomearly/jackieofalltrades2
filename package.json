@@ -13,14 +13,11 @@
   },
   "dependencies": {
     "ansi-regex": "^3.0.0",
-    "register-service-worker": "^1.1.1",
     "vue": "^2.5.2",
-    "vue-carousel": "^0.6.9",
-    "vue-pwa": "0.0.0",
+    "vue-carousel": "^0.6.15",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-pwa": "^3.0.0-beta.6",
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
     "babel-eslint": "^8.2.1",

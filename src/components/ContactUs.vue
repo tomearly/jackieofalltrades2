@@ -1,10 +1,11 @@
 <template>
     <div>
-      Hello
       <Header
         message='contact'
       >
       </Header>
+      <br>
+      <br>
       <Nav></Nav>
         <div>
         <div>Contact Details: <p>07956 403736</p> <p>07976 520954</p></div>
