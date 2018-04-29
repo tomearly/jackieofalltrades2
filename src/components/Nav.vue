@@ -18,14 +18,6 @@ export default {
         width: calc(100vw);
         height: 50px;
     }
-    a {
-        text-decoration: none;
-        color: dimgray;
-    }
-    a:hover {
-        text-decoration: underline;
-        color: dimgray;
-    }
     h1 {
         display: inline;
         font-size: 16px;

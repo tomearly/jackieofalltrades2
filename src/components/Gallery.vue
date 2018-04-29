@@ -8,7 +8,7 @@
       <br>
       <Nav></Nav>
         <div id="page">
-          <carousel :perPage="1" :perPageCustom="[[480, 1], [768, 1]]">
+          <carousel :speed="2000" :loop="true" :perPage="1" :perPageCustom="[[480, 1], [768, 1]]">
             <slide>
                 <img alt="stairs before" src="https://res.cloudinary.com/ymb/image/upload/v1524933357/stairs_before_dab14i.jpg" draggable="false"/>
                 <img alt="stairs after" src="https://res.cloudinary.com/ymb/image/upload/v1524933357/stairs_after_l86sjc.jpg" draggable="false"/>
@@ -25,11 +25,12 @@
             </slide>
           </carousel>
         </div>
+      <Footer></Footer>
     </div>
 </template>
 
 <script>
-/* eslint-disable */
+import Footer from './Footer'
 import Header from './Header'
 import Logo from './Logo'
 import Nav from './Nav'
@@ -38,6 +39,7 @@ import { Carousel, Slide } from 'vue-carousel'
 export default {
   name: 'Gallery',
   components: {
+    Footer,
     Header,
     Logo,
     Nav,
