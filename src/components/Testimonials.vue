@@ -7,10 +7,10 @@
       <br>
       <br>
       <Nav></Nav>
-        <div>
-          <div class="testimonial-quote">Lorem ipsum dolor sit amet, vim ut liber platonem reprimique. Has duis probo reprehendunt et, atomorum pericula iracundia vis ad. Quem dictas iudicabit ea mei, duo ad reque singulis interesset.</div>
-          <div class="testimonial-quote">Mel scripta fabulas copiosae at. Ad iisque facilis perfecto vel, dicant nonumy percipitur at pro. Cu nec unum voluptua. Aliquip vituperatoribus cu est, brute summo et mea, ei vide sale.</div>
-          <div class="testimonial-quote">Ea partiendo patrioque eos, in liber expetendis his, vim ut iriure docendi. Ius iudico phaedrum ut. Eos officiis maluisset deterruisset id. Tamquam maiestatis argumentum nec no. Tacimates pertinacia duo te.</div>
+        <div class="quotes">
+          <div class="testimonial-quote">Lucy Poole - March 2018 - Where do I start with this amazing team!! From quote to room being completed Jackie of all trades 2 have done a fantastic job redecorating my boys room, it looks amazing, done in great time and such a friendly team, well worth recommending as I couldn't ask for more. Clean and very professional job done xx thank you from the bottom of my heart xx</div>
+          <div class="testimonial-quote">Clara Sam - March 2018 - Very happy 11 year old with his newly decorated bedroom thank you</div>
+          <div class="testimonial-quote">Lauren Price - February 2018 - Absolute fab job on our new fence! Can’t fault, got rid of the old one, worked so hard in freezing conditions to get the new one in! Fantastic service, would highly recommend to anyone!!</div>
         </div>
       <Footer>
       </Footer>
@@ -33,3 +33,10 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+  .testimonial-quote {
+    max-width: 400px;
+    padding: 20px;
+  }
+</style>
