@@ -1,7 +1,6 @@
 <template>
     <div class='footer'>
       <span
-        class='vertical-align-content'
         >&copy; tom early 2018
       </span>
     </div>
@@ -19,6 +18,6 @@ export default {
     bottom: 0px;
     position: absolute;
     text-align: center;
-    width: 100%;
+    width: auto;
 }
 </style>

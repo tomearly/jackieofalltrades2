@@ -6,9 +6,11 @@
       <br>
       <br>
       <Nav></Nav>
+      <p class="desc">
       Female, qualified painters and decorators with 30 years of experience
 
       Call 07976520954 for your free estimate.
+      </p>
 
       <p>See our <a href="#/testimonials">testimonials</a> and <a href="#/gallery">gallery</a></p>
 
@@ -52,10 +54,13 @@ export default {
   .profile .name {
     vertical-align: center;
   }
+  .desc {
+    padding: 5px 10px;
+  }
 
   img {
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
   }
 </style>
