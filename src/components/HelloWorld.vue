@@ -9,22 +9,22 @@
       <p class="desc">
 
       Based in Northampton
-      <br/>
+      <br/><br/>
       Female, qualified painters and decorators with 30 years of experience
-      <br/>
-      Call 07976520954 for your free estimate.
+      <br/><br/>
+      Call <a href="tel:07976520954">07976520954</a> for your free estimate.
       </p>
 
       <p>See our <a href="#/testimonials">testimonials</a> and <a href="#/gallery">gallery</a></p>
 
-      <div class="profile">
+     <!-- <div class="profile">
         <div><img alt="Home Image 1" src="https://res.cloudinary.com/ymb/image/upload/v1524993556/woman_ijbmbs.jpg"></div>
         <div>Kerry</div>
       </div>
       <div class="profile">
         <div class="name">Deborah</div>
         <div><img alt="Home Image 2" src="https://res.cloudinary.com/ymb/image/upload/v1524993556/woman_ijbmbs.jpg"></div>
-      </div>
+      </div>-->
     </div>
 </template>
 

@@ -8,7 +8,7 @@
       <br>
       <Nav></Nav>
         <div>
-        <div>Contact Details: <p>07956 403736</p> <p>07976 520954</p></div>
+          <div><br/><br/>Contact Details:<br/><br/> <p>07956 403736</p> <p>07976 520954</p></div>
         </div>
     </div>
 
