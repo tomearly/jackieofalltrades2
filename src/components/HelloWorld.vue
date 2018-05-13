@@ -15,12 +15,12 @@
       <p>See our <a href="#/testimonials">testimonials</a> and <a href="#/gallery">gallery</a></p>
 
       <div class="profile">
-        <div><img src="https://res.cloudinary.com/ymb/image/upload/v1524993556/woman_ijbmbs.jpg"></div>
+        <div><img alt="Home Image 1" src="https://res.cloudinary.com/ymb/image/upload/v1524993556/woman_ijbmbs.jpg"></div>
         <div>Person One</div>
       </div>
       <div class="profile">
         <div class="name">Person Two</div>
-        <div><img src="https://res.cloudinary.com/ymb/image/upload/v1524993556/woman_ijbmbs.jpg"></div>
+        <div><img alt="Home Image 2" src="https://res.cloudinary.com/ymb/image/upload/v1524993556/woman_ijbmbs.jpg"></div>
       </div>
       <Footer>
       </Footer>
