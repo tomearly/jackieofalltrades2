@@ -22,13 +22,10 @@
         <div class="name">Person Two</div>
         <div><img alt="Home Image 2" src="https://res.cloudinary.com/ymb/image/upload/v1524993556/woman_ijbmbs.jpg"></div>
       </div>
-      <Footer>
-      </Footer>
     </div>
 </template>
 
 <script>
-import Footer from './Footer'
 import Header from './Header'
 import Logo from './Logo'
 import Nav from './Nav'
@@ -36,7 +33,6 @@ import Nav from './Nav'
 export default {
   name: 'HelloWorld',
   components: {
-    Footer,
     Header,
     Logo,
     Nav

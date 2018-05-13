@@ -45,9 +45,6 @@ export default {
     Nav,
     Carousel,
     Slide
-  },
-  metaInfo: {
-    title: 'gallery'
   }
 }
 </script>

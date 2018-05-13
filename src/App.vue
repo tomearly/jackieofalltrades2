@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <router-view/>
+    <span class='footer'>&copy; Tom Early 2018</span>
   </div>
 </template>
 
@@ -13,12 +14,22 @@ export default {
 
 <style>
 
+  .footer {
+    background: grey;
+    bottom: 0px;
+    color: white;
+    height: 25px;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+  }
+
   #app {
     color: #2c3e50;
     font-family: 'Open Sans', Verdana, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    text-align: center;
   }
   a {
     color: dimgray;

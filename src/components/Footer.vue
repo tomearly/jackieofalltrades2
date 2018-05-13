@@ -1,7 +1,6 @@
 <template>
     <div class='footer'>
-      <span
-        >&copy; tom early 2018
+      <span>&copy;tom early 2018
       </span>
     </div>
 </template>
