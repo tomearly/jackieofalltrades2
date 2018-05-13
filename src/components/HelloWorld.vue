@@ -7,8 +7,11 @@
       <br>
       <Nav></Nav>
       <p class="desc">
+      
+      Based in Northampton
+      <br/>
       Female, qualified painters and decorators with 30 years of experience
-
+      <br/>
       Call 07976520954 for your free estimate.
       </p>
 
