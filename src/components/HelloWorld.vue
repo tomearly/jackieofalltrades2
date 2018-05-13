@@ -7,7 +7,7 @@
       <br>
       <Nav></Nav>
       <p class="desc">
-      
+
       Based in Northampton
       <br/>
       Female, qualified painters and decorators with 30 years of experience
@@ -19,10 +19,10 @@
 
       <div class="profile">
         <div><img alt="Home Image 1" src="https://res.cloudinary.com/ymb/image/upload/v1524993556/woman_ijbmbs.jpg"></div>
-        <div>Person One</div>
+        <div>Kerry</div>
       </div>
       <div class="profile">
-        <div class="name">Person Two</div>
+        <div class="name">Deborah</div>
         <div><img alt="Home Image 2" src="https://res.cloudinary.com/ymb/image/upload/v1524993556/woman_ijbmbs.jpg"></div>
       </div>
     </div>
