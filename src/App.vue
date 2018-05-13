@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <router-view/>
-    <span class='footer'>&copy;Tom Early 2018</span>
+    <span class='footer'>(c) jackie of all trades 2 - 2018</span>
   </div>
 </template>
 
