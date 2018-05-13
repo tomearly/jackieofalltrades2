@@ -29,6 +29,11 @@ export default {
     Header,
     Logo,
     Nav
+  },
+  metaInfo () {
+    return {
+      title: 'contact us'
+    }
   }
 }
 </script>

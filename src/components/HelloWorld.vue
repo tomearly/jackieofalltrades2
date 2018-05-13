@@ -40,6 +40,12 @@ export default {
     Header,
     Logo,
     Nav
+  },
+  metaInfo: {
+    title: 'jackie of all trades 2',
+    meta: [ {
+      vmid: 'description', name: 'description', content: this.description
+    } ]
   }
 }
 </script>

@@ -6,7 +6,8 @@
 
 <script>
 export default {
-  name: 'App'
+  name: 'App',
+  title: 'jackie of all trades 2'
 }
 </script>
 

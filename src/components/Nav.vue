@@ -20,8 +20,8 @@ export default {
     }
     h1 {
         display: inline;
-        font-size: 16px;
-        padding: 0 10px;
+        font-size: 15px;
+        padding: 0 5px;
         color: dimgray;
     }
 

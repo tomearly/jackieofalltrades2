@@ -4,8 +4,10 @@ import ContactUs from '@/components/ContactUs'
 import Gallery from '@/components/Gallery'
 import HelloWorld from '@/components/HelloWorld'
 import Testimonials from '@/components/Testimonials'
+import Meta from 'vue-meta'
 
 Vue.use(Router)
+Vue.use(Meta)
 
 export default new Router({
   routes: [

@@ -30,6 +30,9 @@ export default {
     Header,
     Logo,
     Nav
+  },
+  metaInfo: {
+    title: 'testimonials'
   }
 }
 </script>
